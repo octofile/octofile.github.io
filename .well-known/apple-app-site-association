@@ -3,12 +3,16 @@
         "apps": [],
         "details": [
             {
-                "appID": "4P662M7N9V.com.hypobenthos.octofile",
-                "paths": ["*"]
+                "appID": "5A22T87UY5.com.hypobenthos.octofile",
+                "paths": [
+                    "*"
+                ]
             }
         ]
     },
     "appclips": {
-        "apps": ["4P662M7N9V.com.hypobenthos.octofile.Clip"]
+        "apps": [
+            "5A22T87UY5.com.hypobenthos.octofile.Clip"
+        ]
     }
 }
