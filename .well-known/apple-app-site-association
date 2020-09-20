@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "4P662M7N9V.com.hypobenthos.octofile",
-                "paths": [ "*" ]
+                "paths": [ "/action/*" ]
             }
         ]
     },
